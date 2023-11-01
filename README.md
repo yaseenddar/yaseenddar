@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yaseenddar
-- 👀 I’m interested in WebD
+- 👀 I’m interested in WebDev and javaDev
 - 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on WenD career
+- 💞
 - 📫 How to reach me github
 
 <!---
